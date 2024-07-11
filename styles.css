@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+    background-color:brown
+}
+h2{
+    color: aqua;
+}
+strong{
+    background-color: burlywood;
+    color: darkred;
+}
+body{
+    background: url("pp.jpg");
+    backgroung-repeat: no-repeat;
+}
+.special-heading{
+    color:chocolate;
+}
